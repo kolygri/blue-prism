@@ -1,6 +1,8 @@
 This project is running in combination with PostgreSQL server, version:<br> 
 **psql (14.2 (Ubuntu 14.2-1.pgdg20.04+1+b1))**
 
+Python interpreter version: **3.8**
+
 ### For terminal lovers:
 1. Navigate to the `blue-prism` directory, `cd ~/Git/<git-clone-destination>/`;
 2. Create virtual environment named `venv`, `python3 -m venv venv`;
